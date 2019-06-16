@@ -12,4 +12,7 @@ Step 3: Run Code on line 13
 Step 4: Open index.html
 
 
-Designed by Mandeep Singh and  everything else done by Muhammad Azhar
+Front-end development by Mandeep Singh 
+
+
+Back-end development by Muhammad Azhar
